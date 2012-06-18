@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="vaadin-6.7.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/vaadin-6.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.0.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-1.0.0.GA-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

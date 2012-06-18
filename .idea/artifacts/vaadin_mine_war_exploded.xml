@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="vaadin-mine:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/vaadin_mine_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="vaadin-mine/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="vaadin-mine" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="vaadin-6.7.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
